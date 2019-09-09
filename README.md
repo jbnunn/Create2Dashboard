@@ -15,3 +15,4 @@ Install the [TermUI](https://github.com/gizak/termui) dependency with:
 Run the dashboard with
 
     go run dash.go
+
