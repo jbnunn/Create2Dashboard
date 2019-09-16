@@ -1,8 +1,8 @@
-# RoombaDashboard
+# Create 2 Dashboard
 
-A CLI Dashboard for iRobot's Create 2 Roomba, written in Go. This is a work-in-progress, coded live on Twitch,  [https://twitch.tv/jbnunn/](https://twitch.tv/jbnunn/). Updates below:
+A CLI Dashboard for iRobot's Create 2 Roomba, written in Go. This is a work-in-progress, live-coded on Twitch,  [https://twitch.tv/jbnunn/](https://twitch.tv/jbnunn/). Updates below:
 
-* Sept 9, 2019: Initial commmit with basic layout, 
+* Sept 9, 2019: Initial commmit with basic layout
 
 ## Install
 
